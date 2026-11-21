@@ -42,7 +42,7 @@ I'm a **full-stack web developer** who builds fast, practical web applications �
 
 ## 🚀 Projects
 
-### 🧳 [Azim Travel CRM](https://github.com/abubakr-isco/azimtravel) · [Live](https://azimtravel.vercel.app)
+### 🧳 [Azim Travel CRM](https://github.com/abubakr-isco/azimtravel)
 Internal CRM for a travel agency: bookings, transport schedules, drivers, settlements and customers, with Excel data import.  
 **Tech stack:** Django, PostgreSQL, JavaScript, HTML, CSS.
 
