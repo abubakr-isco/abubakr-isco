@@ -46,7 +46,7 @@ I'm a **full-stack web developer** who builds fast, practical web applications �
 Internal CRM for a travel agency: bookings, transport schedules, drivers, settlements and customers, with Excel data import.  
 **Tech stack:** Django, PostgreSQL, JavaScript, HTML, CSS.
 
-### 🚚 [SDS UZ — Website](https://github.com/abubakr-isco/SDS) & [CRM](https://github.com/abubakr-isco/sds-srm) · [Live CRM](https://sds-srm.vercel.app)
+### 🚚 [SDS UZ — Website](https://github.com/abubakr-isco/SDS) & [CRM](https://github.com/abubakr-isco/sds-srm) · [Live Website](https://sdsuz-inc.com)
 Marketing website and internal CRM for an American trucking & freight company.  
 **Tech stack:** React, TypeScript, Vite, Tailwind CSS, Docker.
 
